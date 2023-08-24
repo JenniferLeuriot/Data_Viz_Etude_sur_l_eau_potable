@@ -27,6 +27,7 @@ Quelques indicateurs à suivre :
 ## Compétences cibles
 
  - Créer un tableau de bord répondant à des questions analytiques
+ - Utiliser Tableau et Tableau Prep
  - Analyser un besoin client pour formuler des questions analytiques
  - Générer des graphiques adaptés aux types de données
  - Synthétiser des résultats à destination d'un client
